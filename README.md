@@ -1,17 +1,22 @@
-# pomot
+# Pomo-T
 
-A new Flutter project.
+A sleek, 80s-themed Pomodoro timer desktop application for macOS featuring the legendary Mr. T. 
+
+## Overview
+Pomo-T helps you manage your time effectively by breaking your work into focused intervals, traditionally 25 minutes in length, separated by short breaks. With a dynamic Mr. T theme, it brings a bit of fun and tough love to your productivity!
+
+## Features
+- Customizable work and break intervals
+- Task management and tracking
+- Daily and all-time Pomodoro statistics
+- "Tough love" voice prompts and 80s aesthetics with Mr. T!
+- Floating, compact active timer window
+
+## Screenshot
+![Pomo-T Screenshot](images/screenshot.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the project locally, ensure you have Flutter installed:
+```bash
+flutter run -d macos
+```
